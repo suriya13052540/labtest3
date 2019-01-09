@@ -3,7 +3,7 @@ package team20.se61.sut.Entity
 import lombok.*;
 import javax.persistence.*;
 import javax.persistence.Id;
-import javax.persistence.Entity;
+import javax.per   sistence.Entity;
 import javax.persistence.GeneratedValue;
 
 @Entity
